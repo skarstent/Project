@@ -4,6 +4,3 @@ To learn more about the electricity dataset click on this link https://www.kaggl
 To learn more about the pokemon dataset click on this link https://www.kaggle.com/maca11/all-pokemon-dataset
 
 To learn more about the Disney+ dataset click on this link https://www.kaggle.com/shivamb/disney-movies-and-tv-shows
-
-To learn more about the heart failure prediction dataset, click on this link https://www.kaggle.com/fedesoriano/heart-failure-prediction.
-    In this dataset, I use logistic regression, random forest and gaussian naive bayes.
